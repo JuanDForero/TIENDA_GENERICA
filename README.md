@@ -1,0 +1,2 @@
+# TIENDA_GENERICA
+Proyecto ciclo 3 MINTIC 2021
